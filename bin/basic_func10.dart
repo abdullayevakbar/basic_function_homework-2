@@ -1,4 +1,7 @@
 //  Create a function called func.
+int func(int a) {
+  return (-1) * (a);
+}
 
 //  Create function arguments a.
 
