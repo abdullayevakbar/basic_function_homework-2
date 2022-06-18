@@ -2,7 +2,8 @@
 
 //  Create function arguments a.
 int func(int a) {
-  return a - 1;
+  a -= 1;
+  return a;
 }
 
 //  decrease the value of a to one and return
